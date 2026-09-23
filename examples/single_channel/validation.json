@@ -1,0 +1,29 @@
+{
+  "sample": "single_channel_50ohm_500ps_6dB.s2p",
+  "sha256": "c1b5710ebd47df4d9902b9be66cd09b8b8b85be74e956b0ddd468cee2e23941b",
+  "frequency_points": 5001,
+  "fmax_hz": 500000000000.0,
+  "df_hz": 100000000.0,
+  "topology_recommended_metric": "S",
+  "mapping_rows": [
+    [
+      1,
+      2
+    ]
+  ],
+  "topology_warnings": [
+    "互易 S 参数不能确定真实 driver，请人工确认 family1/source。"
+  ],
+  "ui_ps": 100,
+  "rise_ps": 20,
+  "dt_ps": 1,
+  "fft_points": 4096,
+  "signal_V": 0.25,
+  "main_time_ps": 560.0,
+  "direct_noise_V": 2.2309104832308663e-15,
+  "xtalk_noise_V": 0.0,
+  "max_waveform_error_V": 5.127842594987442e-15,
+  "analytic_S21_db": -6.020599913279624,
+  "analytic_VTF21_db": -12.041199826559248,
+  "hspice_executed": false
+}

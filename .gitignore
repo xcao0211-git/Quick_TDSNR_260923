@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+build/
+dist/
+*.egg-info/
+dev_samples.local.json
+outputs/
+backups/
+qtsnr_runs/
+*.tr0
+*.tr0.json
